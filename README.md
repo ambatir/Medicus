@@ -1,2 +1,3 @@
 # Medicus
-Image classification iOS app to identify over 50 types of topical-skin conditions
+
+Skin diagnosis application which identifies various injuries and skin conditions while providing accurate a realtime accurate diagnosis
